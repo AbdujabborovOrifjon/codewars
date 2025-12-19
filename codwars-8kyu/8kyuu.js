@@ -41,3 +41,45 @@
 // console.log(positiveSum());
 
 // =======================================================================================================
+
+
+
+
+// 3 MASALAAA 
+
+// LINKI :  https://www.codewars.com/kata/5769b3802ae6f8e4890009d2/train/javascript
+
+
+// JAVOBI 
+
+// function removeEveryOther(arr){
+//   return arr.filter((a, i) => !(i % 2));
+// }
+
+
+// =========================================================================
+
+
+// 4 Masalaaa
+
+// LINKI  https://www.codewars.com/kata/57eaeb9578748ff92a000009/train/javascript
+
+// Javobii
+//     let arr = ['5', '0', 9, 3, 2, 1, '9', 6, 7]
+
+// function sumMix(arr){
+//   let summ = 0
+//   for(let i = 0; i < arr.length; i++){
+//     summ += Number(arr[i])
+
+    
+//   }
+//   return summ
+// }
+
+
+//     console.log(sumMix(arr));
+
+
+// ============================================================================
+
