@@ -83,3 +83,30 @@
 
 // ============================================================================
 
+// 4 Masalaaaaaaaaa
+
+// linki : https://www.codewars.com/kata/5899dc03bc95b1bf1b0000ad/train/javascript
+
+// JAVOBIII
+
+// function invert(array) {
+//    return array.map((o)=>0-o)
+// }
+
+
+// ================================================================================
+
+// 5 MASALAAAAA
+
+// LINKI: https://www.codewars.com/kata/515e271a311df0350d00000f/train/javascript
+
+
+// /JAVOBIIII
+
+// function squareSum(numbers){
+//   let sum  = 0
+//    numbers.forEach((value)=>{
+//      sum += value ** 2
+//   })
+//   return sum
+// }
