@@ -110,3 +110,15 @@
 //   })
 //   return sum
 // }
+
+// =====================================================================================
+
+
+// 6 MASALAAAAA
+
+// LINKI :https://www.codewars.com/kata/5583090cbe83f4fd8c000051/train/javascript
+
+// JAVOBII :
+// function digitize(n) {
+//   return n.toString().split("").reverse().map(Number);
+// }
