@@ -122,3 +122,18 @@
 // function digitize(n) {
 //   return n.toString().split("").reverse().map(Number);
 // }
+
+
+// ===================================================================================
+
+// 6 MASALAAAAAA
+
+// LINKI :https://www.codewars.com/kata/57cfdf34902f6ba3d300001e/train/javascript
+// Nomiii :  Saralash va yulduzcha
+// JAVOBIIII
+
+// function twoSort(s) {
+//   s.sort()
+//   let res = s[0]
+// return res.split('').join("***")
+// }
