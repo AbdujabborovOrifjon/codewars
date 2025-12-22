@@ -126,7 +126,7 @@
 
 // ===================================================================================
 
-// 6 MASALAAAAAA
+// 7 MASALAAAAAA
 
 // LINKI :https://www.codewars.com/kata/57cfdf34902f6ba3d300001e/train/javascript
 // Nomiii :  Saralash va yulduzcha
