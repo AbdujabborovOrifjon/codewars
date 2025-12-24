@@ -139,7 +139,12 @@
 // }
 
 
-// ================================================================================
+// =========================================================================================== \\
+
+
+
+
+
 
 
 // 8 MASALAAAAAAA
@@ -158,3 +163,24 @@
 // }else if(operation === "/" ){
 //   return value1 / value2
 // }}
+
+// ------------------------------------------
+
+// 9 MASALAAAAAAAAA
+
+// LINKI : https://www.codewars.com/kata/583710ccaa6717322c000105/train/javascript
+
+// NOMIIIIIIII :  Simple multiplication
+
+// JAVOBIIIII 
+
+// function simpleMultiplication(number) {
+//   if(number % 2 === 0){
+//     return number * 8
+//   }else{
+//        return number * 9
+//   }
+// }
+
+
+// ==================================================================================================
