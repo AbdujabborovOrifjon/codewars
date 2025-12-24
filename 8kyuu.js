@@ -197,3 +197,15 @@
 //   return textbooks.sort((a, b)=> a.toLowerCase() > b.toLowerCase()  ? 1 : -1)
 // }
 
+
+
+// ------------------------
+
+// 11 MASALAAAAA
+
+// LINKI : https://www.codewars.com/kata/57e76bc428d6fbc2d500036d/train/javascript
+
+// NOMII :Satrni massivga aylantirish
+
+// // JAVOBIII:
+// const  stringToArray = (string)=> string.split(" ")
