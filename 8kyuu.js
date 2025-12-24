@@ -184,3 +184,16 @@
 
 
 // ==================================================================================================
+
+
+
+
+// 10 MASAAALAAAAA
+// NOMIII:  Sort My Textbooks
+// LINKI :https://www.codewars.com/kata/5a07e5b7ffe75fd049000051/train/javascript
+// JAVOBI :
+
+// function sorter(textbooks) {
+//   return textbooks.sort((a, b)=> a.toLowerCase() > b.toLowerCase()  ? 1 : -1)
+// }
+
