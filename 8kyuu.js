@@ -256,4 +256,24 @@
 //   return -number
 // }
 
-// =========================================================
+// ==============================================================
+
+
+// 15masaaalaaaaa
+
+// linki:https://www.codewars.com/kata/5a2e9ae2b6cfd7692a0000ba
+// nomi : Type of sum
+
+// javobiii :
+// // function typeOfSum(a, b) {
+//  return typeof (a + b)
+// }
+
+
+// ==================================================================================
+
+// 16 masaalaaaaa
+
+// linkii
+// nomi
+// javobiii
