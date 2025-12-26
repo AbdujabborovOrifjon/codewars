@@ -242,3 +242,18 @@
 //   }
 //   return result;
 // }
+
+
+// ===========================================================================================
+
+// 14 masaalaaaa
+
+// linki: https://www.codewars.com/kata/56dec885c54a926dcd001095/train/javascript
+// nomi :Opposite number
+
+// javobi:
+// // function opposite(number) {
+//   return -number
+// }
+
+// =========================================================
