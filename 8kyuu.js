@@ -276,8 +276,9 @@
 
 // linkii   : https://www.codewars.com/kata/523b4ff7adca849afe000035/train/javascript
 // nomi : Function 1 - hello world
-// javobiii :const  greet = (h)=>"hello world!";
+// javobiii :
+// const  greet = (h)=>"hello world!";
 
 
 
-// ===
+// ====================================================================================
