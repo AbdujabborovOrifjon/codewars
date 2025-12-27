@@ -259,7 +259,7 @@
 // ==============================================================
 
 
-// 15masaaalaaaaa
+// 15 masaaalaaaaa
 
 // linki:https://www.codewars.com/kata/5a2e9ae2b6cfd7692a0000ba
 // nomi : Type of sum
@@ -274,6 +274,10 @@
 
 // 16 masaalaaaaa
 
-// linkii
-// nomi
-// javobiii
+// linkii   : https://www.codewars.com/kata/523b4ff7adca849afe000035/train/javascript
+// nomi : Function 1 - hello world
+// javobiii :const  greet = (h)=>"hello world!";
+
+
+
+// ===
