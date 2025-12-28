@@ -292,3 +292,24 @@
 // function greet(name){
 //     return `Hello, ${name} how are you doing today?`;
 // }
+
+// ===========================================
+
+
+// 18 Masaaalaaaa
+
+// Nomiii : Quarter of the year
+
+// Linki :  https://www.codewars.com/kata/5ce9c1000bab0b001134f5af/train/javascript
+// Javobiiii:
+// const quarterOf = (month) => {
+//   if (month <= 3) {
+//     return 1;
+//   } else if (month <= 6) {
+//     return 2;
+//   } else if (month <= 9) {
+//     return 3;
+//   } else {
+//     return 4;
+//   }
+// };
