@@ -317,17 +317,20 @@
 
 
 // ==================================================================================
+
+
 // 19 Masalaaaaaa
 
 // Nomiii : Grasshopper - Basic Function Fixer
 // Likiii : https://www.codewars.com/kata/56200d610758762fb0000002/train/javascript
+
 // Javobiii :
 // function addFive(num) {
 //   let total = num + 5
 //   return total
 // }
 
-// ==============================================================
+// =================================================================================
 // 20 Masaalaaa
 // Nomiii : 
 // Likiii : 
