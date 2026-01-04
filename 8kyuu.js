@@ -374,11 +374,14 @@
 
 // 23 Masaalaaaaaaa 
 
-// Linkii :     
+// Linkii :     https://www.codewars.com/kata/55edaba99da3a9c84000003b/train/javascript
 
-// Name : 
+// Name : Berilgan songa bo'linadigan sonlarni toping
 
-// Javobiiiiii 
+// Javobiiiiii
+// //  function divisibleBy(numbers, divisor){
+// return numbers.filter((sum)=> sum % divisor === 0)
+// }
 
 
 // =======================================================================================================================
