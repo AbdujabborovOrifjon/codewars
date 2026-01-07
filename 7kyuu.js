@@ -36,3 +36,16 @@
 // }
 
 // =============================================================================================================`
+
+
+// 2 Masaalaaaaa
+
+
+// Linkiii :    https://www.codewars.com/kata/5168b125faced29f66000005/train/javascript
+
+// Nomiiiii :   Substring misollar sonini qaytaring
+
+// Javobiii :
+//  function solution(fullText, search) {
+//   return fullText.split(search).length -1;
+// }
