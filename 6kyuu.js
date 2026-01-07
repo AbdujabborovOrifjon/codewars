@@ -15,3 +15,20 @@
 // }
 
 // =================================================================================
+
+
+// 6 Masaalaaa 
+
+// Linkii : https://www.codewars.com/kata/54da5a58ea159efa38000836/train/javascript
+
+// Name :   Find the odd int
+
+// Javobii : 
+// function findOdd(A) {
+//   for(let i = 0; i < A.length; i++){
+//    let count = A.filter((o)=> o === A[i]).length
+//     if(count % 2 === 1){
+//       return A[i]
+//     }
+//   }
+// }
