@@ -73,3 +73,46 @@
 // }
 
 // ===============================================================================================================================
+
+// 5 Masaalaaaaaaaa
+
+// Nameee :     How many consecutive numbers are needed?
+
+// Linkiii : https://www.codewars.com/kata/559cc2d2b802a5c94700000c/train/javascript
+
+// Javobiiii :
+// function consecutive(arr) {
+//   let min = Math.min(...arr)
+//   let max = Math.max(...arr)
+  
+//     let cont = []
+    
+//   for(let i = min; i <= max; i++) cont.push(i)
+  
+//   return (cont.length - arr.length)
+// }
+
+// ===========================================================================================================================
+
+// 6 Masaallaa
+
+// nanme : Ok funksiyalari bilan saralash
+
+// linki : https://www.codewars.com/kata/559f3e20f4f29869cf0000ea/train/javascript
+
+// javobiii : let OrderPeople =(people)=>  people.sort((a, b)=> a.age - b.age)
+
+
+
+// ================================================================================================================================
+
+// 7 masaalaaa 
+
+// name :  Ular kvadratmi?
+
+// linki : https://www.codewars.com/kata/56853c44b295170b73000007/train/javascript
+
+// javobiii : let isSquare = arr => arr.length ? arr.map ((x) => !`${(Math.sqrt(x) % 1)}`.includes(".")).every((v) => v) : undefined;
+
+
+// =============================================================================================================================== 
