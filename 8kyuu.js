@@ -83,7 +83,7 @@
 
 // ============================================================================
 
-// 4 Masalaaaaaaaaa
+// 5 Masalaaaaaaaaa
 
 // linki : https://www.codewars.com/kata/5899dc03bc95b1bf1b0000ad/train/javascript
 
@@ -96,7 +96,7 @@
 
 // ================================================================================
 
-// 5 MASALAAAAA
+// 6 MASALAAAAA
 
 // LINKI: https://www.codewars.com/kata/515e271a311df0350d00000f/train/javascript
 
@@ -114,7 +114,7 @@
 // =====================================================================================
 
 
-// 6 MASALAAAAA
+// 7 MASALAAAAA
 
 // LINKI :https://www.codewars.com/kata/5583090cbe83f4fd8c000051/train/javascript
 
@@ -126,7 +126,7 @@
 
 // ===================================================================================
 
-// 7 MASALAAAAAA
+// 8 MASALAAAAAA
 
 // LINKI :https://www.codewars.com/kata/57cfdf34902f6ba3d300001e/train/javascript
 // Nomiii :  Saralash va yulduzcha
@@ -147,7 +147,7 @@
 
 
 
-// 8 MASALAAAAAAA
+// 9 MASALAAAAAAA
 
 // LINKI :https://www.codewars.com/kata/57356c55867b9b7a60000bd7/train/javascript
 // NOMIIII : Basic Mathematical Operations
@@ -166,7 +166,7 @@
 
 // ------------------------------------------
 
-// 9 MASALAAAAAAAAA
+// 10 MASALAAAAAAAAA
 
 // LINKI : https://www.codewars.com/kata/583710ccaa6717322c000105/train/javascript
 
@@ -188,7 +188,7 @@
 
 
 
-// 10 MASAAALAAAAA
+// 11 MASAAALAAAAA
 // NOMIII:  Sort My Textbooks
 // LINKI :https://www.codewars.com/kata/5a07e5b7ffe75fd049000051/train/javascript
 // JAVOBI :
@@ -201,7 +201,7 @@
 
 // ------------------------
 
-// 11 MASALAAAAA
+// 12 MASALAAAAA
 
 // LINKI : https://www.codewars.com/kata/57e76bc428d6fbc2d500036d/train/javascript
 
@@ -213,7 +213,7 @@
 
 // ===========================================================================================================
 
-// 12 MAASAALAAAAAA
+// 13 MAASAALAAAAAA
 
 // LINKI : https://www.codewars.com/kata/56676e8fabd2d1ff3000000c/train/javascript
 // NOMI : A Needle in the Haystack
@@ -230,7 +230,7 @@
 
 // -------------------------------------------------------------------------
 
-// 13 MASALAAAAAAAA
+// 14 MASALAAAAAAAA
 
 // LINKI: https://www.codewars.com/kata/56f69d9f9400f508fb000ba7/train/javascript
 // NOMII :Count the Monkeys!
@@ -246,7 +246,7 @@
 
 // ===========================================================================================
 
-// 14 masaalaaaa
+// 15 masaalaaaa
 
 // linki: https://www.codewars.com/kata/56dec885c54a926dcd001095/train/javascript
 // nomi :Opposite number
@@ -259,7 +259,7 @@
 // ==============================================================
 
 
-// 15 masaaalaaaaa
+// 16 masaaalaaaaa
 
 // linki:https://www.codewars.com/kata/5a2e9ae2b6cfd7692a0000ba
 // nomi : Type of sum
@@ -272,7 +272,7 @@
 
 // ==================================================================================
 
-// 16 masaalaaaaa
+// 17 masaalaaaaa
 
 // linkii   : https://www.codewars.com/kata/523b4ff7adca849afe000035/train/javascript
 // nomi : Function 1 - hello world
@@ -283,7 +283,7 @@
 
 // ====================================================================================
 
-// 17 masalaaaaaa
+// 18 masalaaaaaa
 
 // Nomiii :Returning Strings
 // linki : https://www.codewars.com/kata/55a70521798b14d4750000a4/train/javascript
@@ -296,7 +296,7 @@
 // ===========================================
 
 
-// 18 Masaaalaaaa
+// 19 Masaaalaaaa
 
 // Nomiii : Quarter of the year
 
@@ -319,7 +319,7 @@
 // ====================================================================================
 
 
-// 19 Masalaaaaaa
+// 20 Masalaaaaaa
 
 // Nomiii : Grasshopper - Basic Function Fixer
 // Likiii : https://www.codewars.com/kata/56200d610758762fb0000002/train/javascript
@@ -332,7 +332,7 @@
 
 // ===================================================================================
 
-// 20 Masaalaaa
+// 21 Masaalaaa
 
 // Nomiii : Add Length
 
@@ -345,13 +345,6 @@
 
 
 
-// ===============================================================================================
-
-// 21   Masaaalaaaaa
-
-// Nomiiii :
-// Linki :  
-// Javobiii :
 
 // ===============================================================================================================
 

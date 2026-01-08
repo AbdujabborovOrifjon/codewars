@@ -108,7 +108,7 @@
 
 // 7 masaalaaa 
 
-// name :  Ular kvadratmi?
+// Name :  Ular kvadratmi?
 
 // linki : https://www.codewars.com/kata/56853c44b295170b73000007/train/javascript
 
