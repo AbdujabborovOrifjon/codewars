@@ -394,3 +394,23 @@
 
 
 // ==========================================================================================================================
+
+
+// 25 Masaalaaa
+
+// Namee : DNA to RNA Conversion
+
+// Linkii : https://www.codewars.com/kata/5556282156230d0e5e000089/train/javascript
+
+// Javobii :
+// function DNAtoRNA(dna) {
+// return dna.split("").map((str)=>{
+//   if(str === "T"){
+//     return "U"
+//   } else{
+//     return str
+//   }
+// }).join("")
+// }
+
+// 
