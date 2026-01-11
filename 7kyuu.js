@@ -116,3 +116,17 @@
 
 
 // =============================================================================================================================== 
+
+// 8 Masaaaalaaa
+
+// Namee : Highest and Lowest
+
+
+// Linki : https://www.codewars.com/kata/554b4ac871d6813a03000035/train/javascript
+
+// Javobii : 
+// function highAndLow(numbers) {
+//   const arr = numbers.split(' ').map(Number);
+//   return `${Math.max(...arr)} ${Math.min(...arr)}`;
+// }
+// ===============================================================================================================================
