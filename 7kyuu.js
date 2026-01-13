@@ -141,3 +141,15 @@
 
 
 // =============================================================================================================================
+
+// 10 Masaalaa 
+
+// Nameee : You're a square!
+
+// Linkiiii : https://www.codewars.com/kata/54c27a33fb7da0db0100040e/train/javascript
+
+// Javoobiiiii : 
+// var isSquare = function(n) {
+//   if (n < 0) return false;
+//   return Number.isInteger(Math.sqrt(n));
+// };
