@@ -130,3 +130,12 @@
 //   return `${Math.max(...arr)} ${Math.min(...arr)}`;
 // }
 // ===================================================================================================================================
+
+// 9 masaalaaaa 
+
+// Nameee :     List Filtering
+
+// Linkiiiiii : https://www.codewars.com/kata/53dbd5315a3c69eed20002dd/train/javascript
+
+// Javoobiii : let filter_list = (l)=>    l.filter((i)=> typeof i !== "string")
+
