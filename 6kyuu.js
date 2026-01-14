@@ -34,3 +34,22 @@
 // }
 
 // =====================================================================================================================================
+
+// 7 Masaalaaa
+
+// Nameeee :Split Strings
+
+// Linkii : https://www.codewars.com/kata/515de9ae9dcfc28eb6000001/train/javascript
+
+// Javobiii : 
+
+// function solution(str){
+//   let res = [];
+//   if(str.length % 2 !== 0){
+//     str+=  "_"
+//   }
+//   for(let i = 0; i < str.length; i+=2){
+//      res.push(str.slice(i,i + 2))
+//   }
+//   return res
+// }
