@@ -480,3 +480,17 @@
 // Javobiiii : 
 // items = []
 // items.push {a: "b", c: "d"}
+
+// ==============================================================================================================
+
+// 30 Masaalaaaa 
+
+// Nameee : Sum without highest and lowest number
+
+// Linkiiii : https://www.codewars.com/kata/576b93db1129fcf2200001e6/train/javascript
+
+// Javobiiii : 
+// function sumArray(array) {
+//   if(!array || array.length <= 2) return 0;
+//   return array.reduce((acc, cur)=>acc + cur, 0) -  Math.max(...array) - Math.min(...array) 
+// }
