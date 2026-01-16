@@ -470,3 +470,13 @@
 // }
 
 // ===============================================================================================================
+
+// 29 masaalaaaa 
+
+// Nameeeee : Push a hash/an object into array
+
+// Linkiiii : https://www.codewars.com/kata/527b3cd0492b6b15250060af/train/javascript
+
+// Javobiiii : 
+// items = []
+// items.push {a: "b", c: "d"}
