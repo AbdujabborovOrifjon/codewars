@@ -494,3 +494,24 @@
 //   if(!array || array.length <= 2) return 0;
 //   return array.reduce((acc, cur)=>acc + cur, 0) -  Math.max(...array) - Math.min(...array) 
 // }
+
+// ===================================================================================================
+
+// 31 Masaalaaaaa 
+
+// Nameee : Stringy Strings
+
+// Linkiii : https://www.codewars.com/kata/563b74ddd19a3ad462000054/train/javascript
+
+// Javobiiii : 
+// let  stringy = (size)=> {
+//   let res = "";
+//   for(let i = 0; i < size; i++){
+//    if(i % 2 === 0){
+//      res +="1"
+//    }else{
+//      res += "0"
+//    }
+//   }
+//   return res
+// }
