@@ -515,3 +515,13 @@
 //   }
 //   return res
 // }
+
+// ====================================================================================================
+
+// 32   Masaaalaaaaaa
+
+// Nameee : BASIC: Making Six Toast.
+
+// Linkiii : https://www.codewars.com/kata/5834fec22fb0ba7d080000e8/train/javascript
+
+// Javobiiiii : let sixToast = (num)=>  Math.abs(num - 6);
