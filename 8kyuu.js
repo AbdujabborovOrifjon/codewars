@@ -525,3 +525,13 @@
 // Linkiii : https://www.codewars.com/kata/5834fec22fb0ba7d080000e8/train/javascript
 
 // Javobiiiii : let sixToast = (num)=>  Math.abs(num - 6);
+
+// =======================================================================================================
+
+// 33 Masaalaaaaaa 
+
+// Nameeee : Filter out the geese
+
+// Linkii : https://www.codewars.com/kata/57ee4a67108d3fd9eb0000e7/train/javascript
+
+// Javobiiiiii : let gooseFilter = (arr)=>  arr.filter((v)=> !["African", "Roman Tufted", "Toulouse", "Pilgrim", "Steinbacher"].includes(v))
