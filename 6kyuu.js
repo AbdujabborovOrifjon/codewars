@@ -55,3 +55,11 @@
 // }
 
 // ============================================================================================================================
+
+// 8 Masaalaaaaa
+
+// Nameeee : Replace With Alphabet Position
+
+// Linkiii : https://www.codewars.com/kata/546f922b54af40e1e90001da/train/javascript
+
+// Javobiiii : let alphabetPosition = (text)=>  text.toLowerCase().split("").filter((c)=>c >= "a" && c <= "z").map((c)=>c.charCodeAt(0) - 96).join(" ")
