@@ -164,3 +164,13 @@
 // Linkiiiii : https://www.codewars.com/kata/54ff3102c1bad923760001f3/train/javascript
 
 // Javobiii :  let getCount = (str)=>  str.toLowerCase().split("").filter(c => "aeiou".includes(c)).length;
+
+// ======================================================================================================================
+
+// 12 Masaalaaaa 
+
+//  Nameeeeeeee : Square Every Digit
+
+// Linkiiii : https://www.codewars.com/kata/546e2562b03326a88e000020/train/javascript
+
+// Javobiiiii : let squareDigits = (num)=> Number(num.toString().split("").map((d)=>d*d).join(''))
