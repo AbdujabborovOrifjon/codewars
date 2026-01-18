@@ -65,3 +65,22 @@
 // Javobiiii : let alphabetPosition = (text)=>  text.toLowerCase().split("").filter((c)=>c >= "a" && c <= "z").map((c)=>c.charCodeAt(0) - 96).join(" ")
 
 // ====================================================================================================================================
+
+// 9 Masaalaaaaa 
+
+// Nameeeeee : Find The Parity Outlier
+
+// Linkiiiii : https://www.codewars.com/kata/5526fc09a1bbd946250002dc/train/javascript
+
+// Javobiiii : 
+// function findOutlier(integers){
+//  let juft = integers.filter((j)=>j % 2 === 0)
+//  let toq = integers.filter((t)=> t % 2 !== 0)
+//   if(juft.length === 1){
+//     return juft[0]
+//   }else{
+//     return toq[0]
+//   }
+// }
+
+// =================================================================================================================
