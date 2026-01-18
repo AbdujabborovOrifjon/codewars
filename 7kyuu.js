@@ -153,3 +153,14 @@
 //   if (n < 0) return false;
 //   return Number.isInteger(Math.sqrt(n));
 // };
+
+
+// ====================================================================================================================
+
+// 11 Masaaalaaaaaa
+
+// Nameeeeeee : Vowel Count
+
+// Linkiiiii : https://www.codewars.com/kata/54ff3102c1bad923760001f3/train/javascript
+
+// Javobiii :  let getCount = (str)=>  str.toLowerCase().split("").filter(c => "aeiou".includes(c)).length;
