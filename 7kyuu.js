@@ -176,3 +176,20 @@
 // Javobiiiii : let squareDigits = (num)=> Number(num.toString().split("").map((d)=>d*d).join(''))
 
 // =======================================================================================================================
+
+// 13 Masaalaaaaaaaa 
+
+// Nameeeee : String ends with?
+
+// Linkiiiiii : https://www.codewars.com/kata/51f2d1cafc9c0f745c00037d/train/javascript
+
+// Javobiiiiiiii : 
+// let solution = (str, ending)=> {
+//  if(str.endsWith(ending)){
+//    return true
+//  }else{
+//    return false
+//  }
+// }
+
+// ======================================================================================================================================
