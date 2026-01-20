@@ -554,3 +554,11 @@
 // };
 
 // =================================================================================================================
+
+// 35 Masaalaaaa
+
+// Nameeeee : Third Angle of a Triangle
+
+// Linkiiiii : https://www.codewars.com/kata/5a023c426975981341000014/train/javascript
+
+// Javobiii : 
