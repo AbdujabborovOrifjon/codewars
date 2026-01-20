@@ -535,3 +535,13 @@
 // Linkii : https://www.codewars.com/kata/57ee4a67108d3fd9eb0000e7/train/javascript
 
 // Javobiiiiii : let gooseFilter = (arr)=>  arr.filter((v)=> !["African", "Roman Tufted", "Toulouse", "Pilgrim", "Steinbacher"].includes(v))
+
+// ========================================================================================================================
+
+// 34 Masaalaaaaaaaaa
+
+// Nameeeeee : Area or Perimeter
+
+// Linkiiiiii : https://www.codewars.com/kata/5ab6538b379d20ad880000ab/train/javascript
+
+// Javobiiii : 
