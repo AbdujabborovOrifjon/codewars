@@ -568,3 +568,17 @@
 // }
 
 // ===============================================================================================================================
+
+// 36 Masaalaaaaaaaa
+
+// Nameeeeeeeeeee :  Isograms
+
+// Linkiiiiiiiiii : https://www.codewars.com/kata/54ba84be607a92aa900000f1/train/javascript
+
+// Javobiiiiiiiiiiiiiiiii : 
+// let isIsogram = (str)=> {
+//   str = str.toLowerCase()
+//   return   new Set(str).size === str.length
+// }
+
+// ==========================================================================================================
