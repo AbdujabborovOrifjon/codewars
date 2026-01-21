@@ -202,3 +202,18 @@
 
 // Javoobiiiii : let findShort = (s)=> Math.min(...s.split(" ").map((w)=>w.length))
 
+// ======================================================================================================================================
+
+// 15 Masaalaaaaaa
+
+// Nameeeeeeeee : Sort Numbers
+
+// Linkiiiiiii : https://www.codewars.com/kata/5174a4c0f2769dd8b1000003/train/javascript
+
+// Javobiiiii : 
+// let solution = (nums)=> {
+//   if(!Array.isArray(nums)) return []
+  
+//  return  nums.sort((a,b)=>a-b)
+// }
+
