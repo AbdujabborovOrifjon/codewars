@@ -220,3 +220,20 @@
 
 
 // ======================================================================================
+
+// 16 Masaalaaaaaaa 
+
+// Nameeeee : What is type of variable?
+
+// Linkiiiiiii : https://www.codewars.com/kata/57293671c98f77e84b000065/train/javascript
+
+// Javobiiiii : 
+// function type(value) {
+//   if(typeof value == "object"){
+//     if(Array.isArray(value)) return "array";
+//     if(value == null) return "null";
+//     if(isFinite(value)) return "date";
+//     return "object";
+// }
+//   return typeof value;
+// }
