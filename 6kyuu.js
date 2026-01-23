@@ -84,3 +84,28 @@
 // }
 
 // =================================================================================================================
+
+// 10 Masaalaaaaa
+
+// Nameeeeee : Convert string to camel case
+
+// LInkiiiii : https://www.codewars.com/kata/517abf86da9663f1d2000003/train/javascript
+
+// Javobiiiii : 
+// let  toCamelCase = (str)=> {
+//   let result = "";
+//   let upper = false;
+
+//   for (let i = 0; i < str.length; i++) {
+//     if (str[i] === "-" || str[i] === "_") {
+//       upper = true;
+//     } else if (upper) {
+//       result += str[i].toUpperCase();
+//       upper = false;
+//     } else {
+//       result += str[i];
+//     }
+//   }
+
+//   return result;
+// }
