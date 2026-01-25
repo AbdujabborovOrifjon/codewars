@@ -247,3 +247,19 @@
 // Linkiii : https://www.codewars.com/kata/57a06005cf1fa5fbd5000216/train/javascript
 
 // Javobiii : let wordsToSentence = (words)=>  words.join(" ")
+
+// ================================================================
+
+// 18 Masalaaaa 
+
+// Nameeeee : 4 ning kuchi
+
+// Linkiii : https://www.codewars.com/kata/544d114f84e41094a9000439/train/javascript
+
+// Javobiiiiiiiiiiiiiiiii : 
+// function powerOf4(n) {
+//   if (typeof n !== "number" || !Number.isInteger(n) || n <= 0) {
+//     return false;
+//   }
+//   return (n & (n - 1)) === 0 && n % 3 === 1;
+// }
