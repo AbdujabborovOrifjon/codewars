@@ -239,3 +239,11 @@
 // }
 
 // ========================================================
+
+// 17 Masaalaaaa
+
+// Nameee : Words to sentence
+
+// Linkiii : https://www.codewars.com/kata/57a06005cf1fa5fbd5000216/train/javascript
+
+// Javobiii : let wordsToSentence = (words)=>  words.join(" ")
