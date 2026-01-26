@@ -265,3 +265,11 @@
 // }
 
 // ==========================================================================================================
+
+// 19 Masaalaaa
+
+// Nameeeee : Descending Order
+
+// Linkiii : https://www.codewars.com/kata/5467e4d82edf8bbf40000155/train/javascript
+
+// Javobii : let descendingOrder = (n)=> Number(n.toString().split("").sort((a,b)=> b-a).join(""))
