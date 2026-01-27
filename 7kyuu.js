@@ -273,3 +273,13 @@
 // Linkiii : https://www.codewars.com/kata/5467e4d82edf8bbf40000155/train/javascript
 
 // Javobii : let descendingOrder = (n)=> Number(n.toString().split("").sort((a,b)=> b-a).join(""))
+
+// =======================================================================================================
+
+// 19 Masaalaaaaa 
+
+// Nameee : Sum of two lowest positive integers
+
+// Linkii : https://www.codewars.com/kata/558fc85d8fd1938afb000014/train/javascript
+
+// Javobiii : let  sumTwoSmallestNumbers = (numbers)=>numbers.sort((a, b) => a - b).slice(0, 2) .reduce((a, b) => a + b);
