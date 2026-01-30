@@ -134,3 +134,19 @@
 // }
 
 // =================================================================
+
+// Nameee : ko'p o'lchovli massivda qidiruv
+
+// Linkiii : https://www.codewars.com/kata/52840d2b27e9c932ff0016ae/train/javascript
+
+// Javobiii : 
+// let locate = (arr, value)=> {
+//   const flatArr = arr.flat(Infinity);
+
+//   if(flatArr.includes(value)) {
+//     return true;
+//   } else {
+//     return false;
+//   }
+// }
+
