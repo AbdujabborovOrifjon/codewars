@@ -134,6 +134,7 @@
 // }
 
 // =================================================================
+    // 12 Masaalaaa
 
 // Nameee : ko'p o'lchovli massivda qidiruv
 
@@ -150,3 +151,27 @@
 //   }
 // }
 
+
+// =============================================================================================
+
+// 13 Masaalaaaa
+
+// Nameeeeeee : How many permutations where indices change by at most 1
+
+// Linkiiiii : https://www.codewars.com/kata/629e18298f2d21006516e381/train/javascript
+
+// Javobiii : 
+// let permuts = (n)=> {
+//   if (n === 0) return 1n;
+//   if (n === 1) return 1n;
+//   if (n === 2) return 2n;
+
+//   let a = 1n, b = 2n;
+//   for (let i = 3; i <= n; i++) {
+//     [a, b] = [b, a + b];
+//   }
+//   return b;
+// }
+
+
+// ==========================================================================================
