@@ -285,3 +285,21 @@
 // Javobiii : let  sumTwoSmallestNumbers = (numbers)=>numbers.sort((a, b) => a - b).slice(0, 2) .reduce((a, b) => a + b);
 
 // ============================================================================================================
+
+// 20 Masaalaaaaa
+
+// Nameeeeeeee : Exes and Ohs
+
+// Linkiiiii : https://www.codewars.com/kata/55908aad6620c066bc00002a/train/javascript
+
+// Javobiiii : 
+// let  XO = (str)=>  {
+//   str = str.toLowerCase();
+//   let x = 0;
+//   let o = 0;
+//   for(let i = 0; i < str.length; i++){
+//     if(str[i] === "x") x++
+//     else if(str[i] === "o") o++
+//   }
+//   return x === o
+// }
