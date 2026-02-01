@@ -313,3 +313,22 @@
 // Linkii : https://www.codewars.com/kata/551f37452ff852b7bd000139/train/javascript
 
 // Javobii : let  addBinary = (a,b)=>(a + b).toString(2)
+
+// ================================================================================================
+
+// 22 Masaaalaaa 
+
+// Nameeeee : Boshlang'ich seriya #3 Sonlar yig'indisi
+
+// Linkiii : https://www.codewars.com/kata/55f2b110f61eb01779000053/train/javascript
+
+// Javobiii : 
+// let  getSum = (a, b)=> {
+//   let min = Math.min(a, b);
+//   let max = Math.max(b, a);
+//   let sum = 0
+//   for(let i = min; i <= max; i++){
+//     sum += i
+//   }
+//   return sum
+// }
