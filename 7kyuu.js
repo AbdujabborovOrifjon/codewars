@@ -332,3 +332,22 @@
 //   }
 //   return sum
 // }
+
+// =====================================================================
+
+// 23 Masaalaaaa
+
+// Nameeeee : Get the Middle Character
+
+// Linkiii : https://www.codewars.com/kata/56747fd5cb988479af000028/train/javascript
+
+
+// Javobiiii : 
+// let  getMiddle = (str)=>  {
+//   const len = str.length;
+//   const mid = Math.floor(len / 2);
+//   if (len % 2 === 1) {
+//     return str[mid];
+//   }
+//   return str[mid - 1] + str[mid];
+// }
