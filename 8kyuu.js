@@ -594,3 +594,20 @@
 
 
 // =========================================================================================================
+
+// 38 Masaalaaaaaaa` 
+
+// Nameeeee : Find the Slope
+
+// Linkiii : https://www.codewars.com/kata/55a75e2d0803fea18f00009d/train/javascript
+
+// Javobiiii : 
+// function slope(arr) {
+//   const [a, b, c, d] = arr;
+
+//   if (c - a === 0) {
+//     return "undefined";
+//   }
+
+//   return String((d - b) / (c - a));
+// }
