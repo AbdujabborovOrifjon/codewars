@@ -183,3 +183,7 @@
 // Linkiii : https://www.codewars.com/kata/54b42f9314d9229fd6000d9c/train/javascript
 
 // Javobiii : 
+// let  duplicateEncode = (word)=>  {
+//   word = word.toLowerCase();
+//   return word.split("").map(ch => word.indexOf(ch) === word.lastIndexOf(ch) ? "(" : ")").join("");
+// }
