@@ -362,3 +362,15 @@
 // Javobii : let accum = (s)=> s.split("").map((e, i)=> e.toUpperCase() + e.toLowerCase().repeat(i)).join("-")
 
 // ========================================================================================================
+
+// 25 Masaalaaaa
+
+// Nameee : Find the stray number
+
+// Linkiiiii : https://www.codewars.com/kata/57f609022f4d534f05000024/train/javascript
+
+// Javobiiii : 
+// let stray = (arr)=>  {
+//   arr.sort((a,b)=> a -b);
+//   return arr[0] === arr[1] ? arr[arr.length - 1] : arr[0]
+// }
