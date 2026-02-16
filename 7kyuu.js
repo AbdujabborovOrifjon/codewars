@@ -395,3 +395,19 @@
 //   }
 
 // =========================================================
+
+// 27 Masaalaaaa
+
+// Nameeeee :Sinf yaratish
+
+// Linkiiii : https://www.codewars.com/kata/5d774cfde98179002a7cb3c8/train/javascript
+
+// Javobiiiiii : 
+// function makeClass(...arr) {
+//     return class {
+//     constructor(...a){
+//    for(let i = 0; i < arr.length; i++) this[arr[i]] = a[i]
+//     }
+    
+// }
+//     }
